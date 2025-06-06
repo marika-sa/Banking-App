@@ -1,0 +1,26 @@
+D:\Repos 2\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe.config
+D:\Repos 2\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe
+D:\Repos 2\EventDrivenProgram\bin\Debug\EventDrivenProgram.pdb
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.AssemblyReference.cache
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.SuggestedBindingRedirects.cache
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.Properties.Resources.resources
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.GenerateResource.cache
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.CoreCompileInputs.cache
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.exe
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.pdb
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.BankingForm.resources
+D:\Repos 2\EventDrivenProgram\obj\Debug\EventDrivenProgram.LoginForm.resources
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.csproj.AssemblyReference.cache
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.csproj.SuggestedBindingRedirects.cache
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.BankingForm.resources
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.LoginForm.resources
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.Properties.Resources.resources
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.csproj.GenerateResource.cache
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.csproj.CoreCompileInputs.cache
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.exe
+D:\Repos 2\EventDrivenProgram - Copy\obj\Debug\EventDrivenProgram.pdb
+D:\Repos 2\EventDrivenProgram - Copy\bin\Debug\BankAccountsDB.mdf
+D:\Repos 2\EventDrivenProgram - Copy\bin\Debug\BankAccountsDB_log.ldf
+D:\Repos 2\EventDrivenProgram - Copy\bin\Debug\EventDrivenProgram.exe.config
+D:\Repos 2\EventDrivenProgram - Copy\bin\Debug\EventDrivenProgram.exe
+D:\Repos 2\EventDrivenProgram - Copy\bin\Debug\EventDrivenProgram.pdb
