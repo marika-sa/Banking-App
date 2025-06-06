@@ -1,0 +1,13 @@
+Date: 23/08/2022 12:00:31 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 56.80 	 New Balance: 1000.00 
+Date: 23/08/2022 12:02:57 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 56.80 	 New Balance: 1000.00 
+Date: 23/08/2022 14:16:03 	 Account Number: 100001 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 200.50 	 New Balance: 1000.00 
+Date: 23/08/2022 14:16:21 	 Account Number: 100001 	 Transaction Type: Deposit 	 Amount: System.Windows.Forms.TextBox, Text: 500 	 New Balance: 1500.00 
+Date: 23/08/2022 14:16:41 	 Account Number: 100001 	 Transaction Type: Deposit 	 Amount: System.Windows.Forms.TextBox, Text: 500 	 New Balance: 2000.00 
+Date: 23/08/2022 14:16:52 	 Account Number: 100001 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 1000 	 New Balance: 1000.00 
+Date: 23/08/2022 15:02:33 	 Account Number: 100003 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 7500 	 New Balance: 7500.00 
+Date: 24/08/2022 15:14:52 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 56.80 	 New Balance: 1000.00 
+Date: 24/08/2022 15:15:53 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 1010 	 New Balance: -10.00 
+Date: 24/08/2022 15:17:10 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 56.8 	 New Balance: 1000.00 
+Date: 24/08/2022 15:18:00 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 1010 	 New Balance: 1000.00 
+Date: 24/08/2022 15:19:16 	 Account Number: 100007 	 Transaction Type: Deposit 	 Amount: System.Windows.Forms.TextBox, Text: 100 	 New Balance: 1100.00 
+Date: 26/08/2022 12:35:32 	 Account Number: 100007 	 Transaction Type: Withdrawl 	 Amount: System.Windows.Forms.TextBox, Text: 56.80 	 New Balance: 1000.00 
